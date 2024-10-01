@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Sobre mim:<br>Sou Desenvolvedor Backend com experiência em projetos de destaque, como uma Central estadual para emissão de certidões e uma Fintech em ascensão nacional. Possuo conhecimento em PHP, HTML, CSS, JavaScript, TypeScript, Node, MySQL, Yii2, Laravel, Golang, Git e Docker. Habilidades em MVC, DDD, Design Patterns, Testes Unitários, Programação Orientada a Objetos (POO) e aplicação de Clean Code.</p>
+<p align="left">Sobre mim:<br><br>Sou Desenvolvedor Backend com experiência em projetos de destaque, como uma Central estadual para emissão de certidões e uma Fintech em ascensão nacional. Possuo conhecimento em PHP, HTML, CSS, JavaScript, TypeScript, Node, MySQL, Yii2, Laravel, Golang, Git e Docker. Habilidades em MVC, DDD, Design Patterns, Testes Unitários, Programação Orientada a Objetos (POO) e aplicação de Clean Code.</p>
 
 ###
 
